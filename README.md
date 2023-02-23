@@ -14,4 +14,4 @@ after repo has been cloned you can run the code right away
 
 
 Summary:
-This code is from a tutorial project from this youtube. URL: 
+This code is from a tutorial project from this youtube. URL: https://www.youtube.com/watch?v=sOJRJtM_iu0&t=178s
